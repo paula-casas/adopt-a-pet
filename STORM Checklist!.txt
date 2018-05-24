@@ -1,0 +1,18 @@
+[] Kotlin as your Programming Language
+[] RecyclerView to show a list of data
+[] Retrofit to fetch data from a remote source or API
+[] GSON to parse JSON strings into data models
+[/] Git for versioning in your project following the Git Flow workflow (DO THIS FIRST)
+[] MVVM as your app architecture for clean code
+     - Also research on what's the difference between MVC, MVP, and MVVM
+[] RxJava2 to implement MVVM with an observer-subscriber pattern 
+[] Realm to cache data and make your app offline-ready
+[] JUnit to unit test your code
+[] Spek for better unit testing with a Behavior Driven Development (BDD) Style
+[] Espresso / Kakao for UI Testing
+
+FOR TONIGHT:
+[/] Download and Install Git
+[/] Create your repository
+[/] Create BitBucket
+[] Create your first app to understand
